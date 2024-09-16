@@ -20,3 +20,7 @@ Features of the App:
 ## User Account Page
 <img width="250" alt="Screenshot 2024-09-16 at 10 12 01 AM" src="https://github.com/user-attachments/assets/d7cfe50e-3098-46c2-9558-3a551fc94ff0">
 <br> <br>
+
+## Listing a product Page
+<img width="250" alt="Screenshot 2024-09-16 at 11 12 15 AM" src="https://github.com/user-attachments/assets/d91d4144-af32-440c-a5d8-b6ee610b843d">
+<br> <br>
