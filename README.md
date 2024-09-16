@@ -9,7 +9,7 @@ Features of the App:
 2. Item Listings: Easily list items for sale, or buy items on sale.
 3. In-App Messaging: Communicate directly with sellers or buyers.
 
-<img width="414" alt="Screenshot 2024-09-16 at 10 21 21 AM" src="https://github.com/user-attachments/assets/883e118b-6358-4383-bf94-058d7058158e">
+<img width="200" alt="Screenshot 2024-09-16 at 10 21 21 AM" src="https://github.com/user-attachments/assets/883e118b-6358-4383-bf94-058d7058158e">
 
 <img width="398" alt="Screenshot 2024-09-16 at 10 26 52 AM" src="https://github.com/user-attachments/assets/19e981db-7aed-4ecd-9cf2-18b7856ad5d1">
 
