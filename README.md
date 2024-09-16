@@ -13,8 +13,10 @@ Features of the App:
 <img width="250" alt="Screenshot 2024-09-16 at 10 21 21 AM" src="https://github.com/user-attachments/assets/883e118b-6358-4383-bf94-058d7058158e">
 <br> <br>
 
-<img width="250" alt="Screenshot 2024-09-16 at 10 26 52 AM" src="https://github.com/user-attachments/assets/19e981db-7aed-4ecd-9cf2-18b7856ad5d1">
-
+## Registration Page
 <img width="250" alt="Screenshot 2024-09-16 at 10 27 11 AM" src="https://github.com/user-attachments/assets/e5ca8c68-1a34-436a-8c17-14861104abe5">
+<br> <br>
 
+## User Account Page
 <img width="250" alt="Screenshot 2024-09-16 at 10 12 01 AM" src="https://github.com/user-attachments/assets/d7cfe50e-3098-46c2-9558-3a551fc94ff0">
+<br> <br>
